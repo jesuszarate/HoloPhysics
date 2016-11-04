@@ -1,8 +1,6 @@
----
+
 title: "HoloPhysics"
-author: "Jesus Zarate"
-date: "October 31, 2016"
----
+
 
 ##Features
 
@@ -79,7 +77,8 @@ Skinning the avatar
 ###Greg
 - Motion of holograms based on environment and user applied vectors
 - Handling collisions of holograms with other holograms and real environment.
-
+- Game elements: lives, passing/failing a level, determining components and composition of levels, etc.
+- User applying vectors (how to select avatar, choose vector type, determine magnitude and direction, etc.), initiating the level, and pausing in mid-level.
 
 ###Lance
 - Professional writing
@@ -94,11 +93,8 @@ Skinning the avatar
 
 ###Chuy
 - Animations
-
-###Undecided
-- Menu station
+- Menu station, and user controlls
 - Environment: avatar, objective, obstacles, etc.
-- Game elements: lives, passing/failing a level, determining components and composition of levels, etc.
-- User applying vectors (how to select avatar, choose vector type, determine magnitude and direction, etc.), initiating the level, and pausing in mid-level.
+
 
 
