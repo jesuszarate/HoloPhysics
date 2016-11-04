@@ -91,7 +91,7 @@ Skinning the avatar
 - Gamification and function for kinematics module
 - Sound FX
 
-###Chuy
+###Chuy (Jesus)
 - Animations
 - Menu station, and user controlls
 - Environment: avatar, objective, obstacles, etc.
