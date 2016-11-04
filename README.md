@@ -1,5 +1,8 @@
+---
+output: pdf_document
+---
 
-title: "HoloPhysics"
+#HoloPhysics
 
 
 ##Features
@@ -39,37 +42,37 @@ User can pause on the middle of the avatar moving and apply new vectors
 Skinning the avatar  
 
 
-####R3 
-
-
+####R3
 
 
 ### Astronomy
-- Visualization of Bending of space time
-- Model for black holes 
+###R1
+- Model for black holes and stars
+
+###R2
 - Sound for massive objects moving
 - Animation of planets/stars/everything else
+- Model for spaceship
+
+###R3
+- Visualization of Bending of space time
 - Have section for quasars/wormholes
 - Animation of supernovae
-- Be able to show aspects of relativity (general and/or special)
-- Rank 4: have achievements, specifically sending the avatar into orbit and use walls and other real world objects as obstacles
+
 
 ### Particle Physics
-####R1
+###R2
 - Models for protons, neutrons, and electrons as well as an indication of electric charge
 - General actions (adding vectors, initiating level, pausing, etc.)
 - Environments including obstacles made from protons, neutrons, and electrons
 - Particle physics tutorial
 - Particle movement physics
 
-###R2
-- Models for antimatter (positrons, etc.)
-- Environments including antimatter obstacles
-
 ###R3
 - Annihilation animation
 - Tutorial about length-scale transitions down to nanometers and smaller
-
+- Models for antimatter (positrons, etc.)
+- Environments including antimatter obstacles
 
 
 
